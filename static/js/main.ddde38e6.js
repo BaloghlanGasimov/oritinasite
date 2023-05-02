@@ -24173,7 +24173,7 @@
       });
       (qe.displayName = "Carousel"), (qe.defaultProps = Ze);
       var Ge = Object.assign(qe, { Caption: ae, Item: se }),
-        Ye = n.p + "/static/media/home-slider1-img.cef934118cf0c274c250.jpg",
+        Ye = n.p + "https://github.com/BaloghlanGasimov/oritinasite/blob/main/static/media/home-slider1-img.cef934118cf0c274c250.jpg",
         Ke = n.p + "/static/media/home-slider2-img.c40c3c23a728e3df79c2.jpg",
         Qe = n.p + "/static/media/home-slider3-img.eda7967531c5ff027b6a.jpg",
         Je = n(3433),
